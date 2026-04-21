@@ -1,5 +1,5 @@
 ## Hi there 👋
-# 안녕하세요 2026학번 서승찬입니다.
+# 안녕하세요 26학번 서승찬입니다.
 
 <!--
 **seungchan16/seungchan16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
